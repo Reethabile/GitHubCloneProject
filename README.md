@@ -1,3 +1,6 @@
 Objective: Practice branching and merging in Git
-
-Add objective to README
+<<<<<<< HEAD
+Modification in main branch.
+=======
+Modification in feature-greeting branch.
+>>>>>>> feature-greeting
