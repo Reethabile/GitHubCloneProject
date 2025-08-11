@@ -1,1 +1,3 @@
-This is the description of my repo
+Objective: Practice branching and merging in Git
+
+Add objective to README
